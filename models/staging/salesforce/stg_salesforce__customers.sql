@@ -10,3 +10,4 @@ birthday AS birth_date,
 LOWER(email) AS email,
 phone_number
 FROM tacos.raw.customers
+
