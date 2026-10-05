@@ -37,3 +37,4 @@ COALESCE(make, 'Custom') AS make,
 TRIM(model) AS model,
 opening_date
 FROM tacos.raw.trucks
+
